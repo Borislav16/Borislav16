@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Borislav16
+- 👋 Hi, I’m Borislav Georgiev
 - 👀 I’m interested in programming with C#
 - 🌱 I’m currently learning arrays,lists and methods 
 - 📫 How to reach me ...
