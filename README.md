@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming with C#
 - 🌱 I’m currently learning arrays,lists and methods 
 - 📫 How to reach me ...
+- 🤓 I'm a student of the software university - [SoftUni] {https://softuni.bg/}
 
 <!---
 Borislav16/Borislav16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
